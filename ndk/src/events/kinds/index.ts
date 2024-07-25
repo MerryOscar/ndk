@@ -21,6 +21,9 @@ export enum NDKKind {
     ChannelHideMessage = 43,
     ChannelMuteUser = 44,
     Media = 1063,
+
+    LiveEventMessage = 1311,
+
     Report = 1984,
     Label = 1985,
 
